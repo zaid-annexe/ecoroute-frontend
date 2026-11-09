@@ -1,4 +1,5 @@
-// Geo & Routing utilities for EcoRoute AI
+// EcoRoute AI: Intelligent Sustainable Route Planning and Carbon Emission Estimator
+// Geospatial & Route Computation Engine
 
 export const KNOWN_CITIES = {
   lucknow: { name: "Lucknow", lat: 26.8467, lng: 80.9462, state: "Uttar Pradesh" },

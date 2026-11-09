@@ -1,5 +1,5 @@
-# Project Report: EcoRoute AI
-**Intelligent Low-Carbon Navigation and Emission-Aware Route Optimization System**
+# Project Report: ECOROUTE AI: INTELLIGENT SUSTAINABLE ROUTE PLANNING AND CARBON EMISSION ESTIMATOR
+**A Multi-Modal Low-Carbon Journey Optimization and Environmental Cost Assessment System**
 
 ---
 

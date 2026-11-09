@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "name": "ecoroute-ai",
+  "description": "EcoRoute AI: Intelligent Sustainable Route Planning and Carbon Emission Estimator",
   "private": true,
   "version": "0.0.0",
   "type": "module",

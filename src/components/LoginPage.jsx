@@ -107,7 +107,7 @@ export default function LoginPage({ onLogin, onOpenQuery }) {
                 <span className="login-logo-tag">AI</span>
               </div>
             </div>
-            <p className="minimal-tagline">Low carbon navigation & fuel optimization</p>
+            <p className="minimal-tagline">Intelligent Sustainable Route Planning & Carbon Emission Estimator</p>
           </div>
 
           <div className="minimal-features">
@@ -219,7 +219,7 @@ export default function LoginPage({ onLogin, onOpenQuery }) {
                 className="submit-auth-btn"
                 disabled={isLoading}
               >
-                {isLoading ? "Signing In..." : "Sign In to EcoRoute ➔"}
+                {isLoading ? "Signing In..." : "Sign In to EcoRoute AI ➔"}
               </button>
             </form>
           ) : (

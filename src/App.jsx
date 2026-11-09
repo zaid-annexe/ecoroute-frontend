@@ -215,7 +215,7 @@ function App() {
             <div className="hero-text">
               <div className="hero-pill">
                 <span className="pill-dot"></span>
-                <span>AI-POWERED LOW CARBON NAVIGATION</span>
+                <span>INTELLIGENT SUSTAINABLE ROUTE PLANNING & CARBON EMISSION ESTIMATOR</span>
               </div>
               <h1>
                 Travel Smarter.<br />
@@ -692,10 +692,10 @@ function App() {
               <span className="logo-name">EcoRoute</span>
               <span className="logo-badge">AI</span>
             </div>
-            <p>Empowering eco-conscious travelers to reduce their carbon footprint one journey at a time.</p>
+            <p>EcoRoute AI: Intelligent Sustainable Route Planning and Carbon Emission Estimator. Empowering eco-conscious travelers to reduce their carbon footprint one journey at a time.</p>
           </div>
           <div className="footer-bottom">
-            <p>© 2026 EcoRoute AI | Designed for Sustainable Travel & Smart Mobility</p>
+            <p>© 2026 EcoRoute AI: Intelligent Sustainable Route Planning and Carbon Emission Estimator | Designed for Sustainable Travel & Smart Mobility</p>
           </div>
         </div>
       </footer>

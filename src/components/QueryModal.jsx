@@ -154,8 +154,8 @@ export default function QueryModal({ isOpen, onClose, user = null }) {
           <div className="query-header-info">
             <span className="query-badge-icon">💬</span>
             <div>
-              <h3 id="query-modal-title">EcoRoute Query & Support Desk</h3>
-              <p>Submit questions, request route inquiries, or browse FAQs</p>
+              <h3 id="query-modal-title">EcoRoute AI: Query & Support Desk</h3>
+              <p>Intelligent Sustainable Route Planning & Carbon Emission Estimator</p>
             </div>
           </div>
           <button
