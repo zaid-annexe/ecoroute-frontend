@@ -22,8 +22,8 @@ function getQueryMatch(route, queryText) {
   if ((q.includes("fast") || q.includes("speed") || q.includes("quick") || q.includes("express")) && route.id === "fast") {
     return "⚡ Top match for fastest arrival query";
   }
-  if ((q.includes("toll") || q.includes("bypass") || q.includes("cruise") || q.includes("highway")) && route.id === "fuel") {
-    return "🛣️ Top match for bypass & cruising query";
+  if ((q.includes("toll") || q.includes("fuel") || q.includes("scenic") || q.includes("cruise") || q.includes("bypass")) && route.id === "fuel") {
+    return "🛣️ Top match for alternate cruise query";
   }
   if ((q.includes("ev") || q.includes("electric") || q.includes("charg")) && route.id === "green") {
     return "⚡ Recommended for EV charging corridors";
